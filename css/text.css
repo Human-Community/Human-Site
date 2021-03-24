@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&family=Source+Code+Pro&display=swap');
+
 
 * {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
@@ -11,6 +12,7 @@ p {
     text-align: justify;
 }
 
-h2 {
+h2, h2 > span {
     font-size: 3rem;
+    font-family: 'Source Code Pro', monospace; 
 }
