@@ -15,3 +15,8 @@
 --telegram: #0088cc;
 --whatsapp: #25d366;
 }
+
+::selection {
+    background: var(--bg);
+    color: var(--light);
+}

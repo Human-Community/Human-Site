@@ -10,16 +10,20 @@ button {
     padding: .5rem 2rem;
     border-radius: 1.5rem;
     margin: 1rem;
-    transition: transform .1s ease;
+    transition: box-shadow .5s ease;
     width: fit-content;
 }
 
 button > a {
     color: white;
     text-decoration: none;
+    transition: transform 1s ease;
 }
 
 button:hover {
-    transform: scale(1.1);
     box-shadow: 0 1rem 1rem var(--shadow);
+}
+
+button > a:hover {
+    transform: translateY(-1rem);
 }
