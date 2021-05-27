@@ -1,0 +1,31 @@
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.degrade {
+  background-color: #42157a; 
+  background-image: linear-gradient(to bottom right, black, #6f23cb);
+  height: 100vh;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+@keyframes rotateLogo {
+  0% {transform: rotate(30deg) }
+  50% {transform: rotate(-30deg) }
+  100% {transform: rotate(30deg) }
+}
+
+img {
+  width: 30%;
+  animation-name: rotateLogo;
+  animation-duration: 4s;
+  animation-iteration-count:infinite;
+}
