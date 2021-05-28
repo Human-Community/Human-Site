@@ -1,0 +1,6 @@
+.degrade {
+    background-color: #42157a; 
+    background-image: linear-gradient(to bottom left, black, #6f23cb);
+    height: 100vh;
+    overflow: hidden;
+}  
