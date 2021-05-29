@@ -11,9 +11,9 @@ function App() {
 
   return (
     <div>
-      {/* <Construction lang={lang} setLang={setLang} /> */}
-      <Home lang={lang} setLang={setLang} />
-      {/* <Projects lang={lang} setLang={setLang} />
+      <Construction lang={lang} setLang={setLang} />
+      {/* <Home lang={lang} setLang={setLang} />
+      <Projects lang={lang} setLang={setLang} />
       <Rules lang={lang} setLang={setLang} />
       <Contact lang={lang} setLang={setLang} />
       <Footer lang={lang} setLang={setLang} /> */}
