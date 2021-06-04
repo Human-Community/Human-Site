@@ -35,7 +35,7 @@ const baseProperties = {
       }
     ]
   },
-  
+
   'en': {
     'construction': 'Building...',
 

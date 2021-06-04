@@ -1,4 +1,4 @@
-function Rules(props) {
+function Rules (props) {
   var {lang, setLang} = props
 
   return (

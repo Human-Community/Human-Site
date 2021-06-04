@@ -6,7 +6,7 @@ import './Home.css'
 import logoRedonda from '../Assets/logoHumamRedondo.png';
 
 function Home(props) {
-  var {lang, setLang} = props
+  var { lang, setLang } = props
 
   return (
     <div className="degrade _df">

@@ -1,4 +1,7 @@
 import { useState } from 'react';
+
+import baseProperties from './Data/baseProperties.js';
+
 import Construction from './Pages/Construction';
 import Home from './Pages/Home';
 import Projects from './Pages/Projects';
@@ -11,12 +14,12 @@ function App() {
 
   return (
     <div>
-      <Construction lang={lang} setLang={setLang} />
-      {/* <Home lang={lang} setLang={setLang} />
-      <Projects lang={lang} setLang={setLang} />
-      <Rules lang={lang} setLang={setLang} />
-      <Contact lang={lang} setLang={setLang} />
-      <Footer lang={lang} setLang={setLang} /> */}
+      <Construction lang={lang} setLang={setLang} baseProps={baseProperties} />
+      {/* <Home lang={lang} setLang={setLang} baseProps={baseProperties} />
+      <Projects lang={lang} setLang={setLang} baseProps={baseProperties} />
+      <Rules lang={lang} setLang={setLang} baseProps={baseProperties} />
+      <Contact lang={lang} setLang={setLang} baseProps={baseProperties} />
+      <Footer lang={lang} setLang={setLang} baseProps={baseProperties} /> */}
     </div>
   );
 }

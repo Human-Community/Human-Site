@@ -1,10 +1,8 @@
-import baseProperties from '../Data/baseProperties.js';
-
 import logoRedonda from '../Assets/logoHumamRedondo.png';
 import "./Construction.css"
 
 function Construction(props) {
-  var {lang} = props
+  var {lang, baseProps} = props;
 
   return (
     <div className="content degrade">
@@ -12,7 +10,7 @@ function Construction(props) {
         <img src={logoRedonda} className="logoAnimation" alt="Human logo" />
         <h1 className="_ttu">
           <span className="_white">
-            {baseProperties[lang].construction}
+            {baseProps[lang].title}
           </span>
         </h1>
       </div>
