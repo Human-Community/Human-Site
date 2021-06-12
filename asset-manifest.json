@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Human-Site/static/css/main.633699fa.chunk.css",
-    "main.js": "/Human-Site/static/js/main.40aa5e16.chunk.js",
-    "main.js.map": "/Human-Site/static/js/main.40aa5e16.chunk.js.map",
-    "runtime-main.js": "/Human-Site/static/js/runtime-main.ffaffaaf.js",
-    "runtime-main.js.map": "/Human-Site/static/js/runtime-main.ffaffaaf.js.map",
-    "static/js/2.27bfe99c.chunk.js": "/Human-Site/static/js/2.27bfe99c.chunk.js",
-    "static/js/2.27bfe99c.chunk.js.map": "/Human-Site/static/js/2.27bfe99c.chunk.js.map",
-    "static/js/3.7c8f2111.chunk.js": "/Human-Site/static/js/3.7c8f2111.chunk.js",
-    "static/js/3.7c8f2111.chunk.js.map": "/Human-Site/static/js/3.7c8f2111.chunk.js.map",
+    "main.css": "/Human-Site/static/css/main.9c6d64b2.chunk.css",
+    "main.js": "/Human-Site/static/js/main.0062f7b6.chunk.js",
+    "main.js.map": "/Human-Site/static/js/main.0062f7b6.chunk.js.map",
+    "runtime-main.js": "/Human-Site/static/js/runtime-main.2e0517df.js",
+    "runtime-main.js.map": "/Human-Site/static/js/runtime-main.2e0517df.js.map",
+    "static/js/2.235f03f9.chunk.js": "/Human-Site/static/js/2.235f03f9.chunk.js",
+    "static/js/2.235f03f9.chunk.js.map": "/Human-Site/static/js/2.235f03f9.chunk.js.map",
+    "static/js/3.e306650c.chunk.js": "/Human-Site/static/js/3.e306650c.chunk.js",
+    "static/js/3.e306650c.chunk.js.map": "/Human-Site/static/js/3.e306650c.chunk.js.map",
     "index.html": "/Human-Site/index.html",
-    "static/css/main.633699fa.chunk.css.map": "/Human-Site/static/css/main.633699fa.chunk.css.map",
-    "static/js/2.27bfe99c.chunk.js.LICENSE.txt": "/Human-Site/static/js/2.27bfe99c.chunk.js.LICENSE.txt",
+    "static/css/main.9c6d64b2.chunk.css.map": "/Human-Site/static/css/main.9c6d64b2.chunk.css.map",
+    "static/js/2.235f03f9.chunk.js.LICENSE.txt": "/Human-Site/static/js/2.235f03f9.chunk.js.LICENSE.txt",
     "static/media/logoHumamRedondo.c4cefa46.png": "/Human-Site/static/media/logoHumamRedondo.c4cefa46.png",
     "static/media/telegram.473c5f0b.png": "/Human-Site/static/media/telegram.473c5f0b.png",
     "static/media/west_black_24dp.6339ae96.svg": "/Human-Site/static/media/west_black_24dp.6339ae96.svg",
     "static/media/whatsapp.3e94d023.png": "/Human-Site/static/media/whatsapp.3e94d023.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffaffaaf.js",
-    "static/js/2.27bfe99c.chunk.js",
-    "static/css/main.633699fa.chunk.css",
-    "static/js/main.40aa5e16.chunk.js"
+    "static/js/runtime-main.2e0517df.js",
+    "static/js/2.235f03f9.chunk.js",
+    "static/css/main.9c6d64b2.chunk.css",
+    "static/js/main.0062f7b6.chunk.js"
   ]
 }
