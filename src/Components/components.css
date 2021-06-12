@@ -1,0 +1,18 @@
+.c-common__arrowleft,
+.c-common__arrowdown,
+.c-common__arrowright,
+.c-common__arrowup {
+    height: 30px;
+    width: 30px;
+    padding: 4px;
+}
+
+.c-common__arrowdown {
+    rotate: 270deg;
+}
+.c-common__arrowright {
+    rotate: 180deg;
+}
+.c-common__arrowup {
+    rotate: 90deg;
+}

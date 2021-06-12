@@ -3,4 +3,16 @@
     background-image: linear-gradient(to bottom left, black, #6f23cb);
     height: 100vh;
     overflow: hidden;
-}  
+}
+
+.c-home__content {
+    font-size: 4em;
+}
+
+.c-home__strip {
+    rotate: 204deg;
+    bottom: -80%;
+    left: -30%;
+    height: 125vh;
+    width: 125vw;
+}

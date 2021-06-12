@@ -1,5 +1,5 @@
 function Contact(props) {
-  var {lang, setLang} = props
+  var {lang, baseProps} = props
 
   return (
     <h1>

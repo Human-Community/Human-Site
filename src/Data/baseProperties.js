@@ -2,8 +2,25 @@ const baseProperties = {
   'br': {
     'construction': 'Em construção...',
 
-    'title': 'Desenvolva, avance, reinvente-se.',
+    'changeLanguage': 'English',
+
+    'name': '!Humman Community',
+    'title': {
+      'develop': 'Desenvolva,',
+      'forward': 'Avance,',
+      'reinvent': 'Reinvente-se.'
+    },
     'description': 'Venha fazer parte de uma comunidade cheia de programadores motivados a atingir um único objetivo: aprimorar suas habilidades em um ambiente acolhedor e diversificado',
+    'social': [
+      {
+        'name': 'telegram',
+        'url': 'https://t.me/Is_Not_Human',
+      },
+      {
+        'name': 'whatsapp',
+        'url': 'https://t.me/Is_Not_Human',
+      }
+    ],
     'projects': [
       {
         'name': 'Lara',
@@ -39,8 +56,25 @@ const baseProperties = {
   'en': {
     'construction': 'Building...',
 
-    'title': 'Develop, move forward, reinvent yourself.',
+    'changeLanguage': 'Português',
+
+    'name': '!Humman Community',
+    'title': {
+      'develop': 'Develop,',
+      'forward': 'Move forward,',
+      'reinvent': 'Reinvent yourself.'
+    },
     'description': 'Join a community full of devs looking for a common goal: hone your skills in a welcoming and diverse environment',
+    'social': [
+      {
+        'name': 'telegram',
+        'url': 'https://t.me/Is_Not_Human',
+      },
+      {
+        'name': 'whatsapp',
+        'url': 'https://t.me/Is_Not_Human',
+      }
+    ],
     'projects': [
       {
         'name': 'Lara',
