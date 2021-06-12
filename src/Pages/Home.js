@@ -2,6 +2,7 @@ import Logo from "../Components/Home/Logo";
 import Content from "../Components/Home/Content";
 
 import './pages.css'
+import Arrow from "../Components/Commom/Arrow";
 
 function Home(props) {
   var { lang, setLang, baseProps } = props
@@ -13,12 +14,9 @@ function Home(props) {
         <Logo lang={lang} baseProps={baseProps} />
         <Content lang={lang} baseProps={baseProps} />
 
-        <div className="_dn _1/1">
-          <div>Seta pra baixo</div>
-          <div>Mudar língua para ${baseProps[lang].changeLanguage}</div>
-        </div>
-        <div className="_dn _1/1">
-          Menu
+        <div className="_1/1 _por _df _aic _jcc">
+          <Arrow orientation="down" />
+          <div class="_poa _r0 _bgprimary _ph _pxxs _bdrs20 _cp" onClick={() => setLang(baseProps[lang].changeCode)}>{baseProps[lang].changeLanguage}</div>
         </div>
       </div>
     </div>
