@@ -6,14 +6,20 @@
 }
 
 @keyframes rotateLogo {
-  0% {transform: rotate(30deg) }
-  50% {transform: rotate(-30deg) }
-  100% {transform: rotate(30deg) }
+  0% {
+    transform: rotate(30deg);
+  }
+  50% {
+    transform: rotate(-30deg);
+  }
+  100% {
+    transform: rotate(30deg);
+  }
 }
 
 .logoAnimation {
   width: 30%;
   animation-name: rotateLogo;
   animation-duration: 4s;
-  animation-iteration-count:infinite;
+  animation-iteration-count: infinite;
 }

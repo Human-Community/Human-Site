@@ -3,7 +3,7 @@ import Arrow from "../Commom/Arrow";
 import Social from "./Social";
 
 function Content(props) {
-  var {lang, baseProps} = props;
+  var { lang, baseProps } = props;
 
   return (
     <div className="_1/1 _6/12@tabletH">
@@ -16,8 +16,8 @@ function Content(props) {
       <div className="_pv _fz28 _taj">{baseProps[lang].description}</div>
 
       <div className="o-layout o-layout--xs">
-        {(baseProps[lang].social).map((social, key) => {
-          return <Social key={key} social={social} />
+        {baseProps[lang].social.map((social, key) => {
+          return <Social key={key} social={social} />;
         })}
 
         <div className="o-layout__item _2/12 _dib _tac">

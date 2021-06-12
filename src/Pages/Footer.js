@@ -1,9 +1,9 @@
 function Footer(props) {
-  var {lang, baseProps} = props
+  var { lang, baseProps } = props;
 
   return (
     <h1>
-      O Footer fica aqui
+      <div> O Footer fica aqui</div>
     </h1>
   );
 }

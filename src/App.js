@@ -1,17 +1,17 @@
-import { useState } from 'react';
+import { useState } from "react";
 
-import baseProperties from './Data/baseProperties.js';
+import baseProperties from "./Data/baseProperties.js";
 
 /* import Construction from './Pages/Construction'; */
-import Home from './Pages/Home';
-import Menu from './Components/Menu.js';
-import Projects from './Pages/Projects';
-import Rules from './Pages/Rules';
-import Contact from './Pages/Contact';
-import Footer from './Pages/Footer';
+import Home from "./Pages/Home";
+import Menu from "./Components/Menu.js";
+import Projects from "./Pages/Projects";
+import Rules from "./Pages/Rules";
+import Contact from "./Pages/Contact";
+import Footer from "./Pages/Footer";
 
 function App() {
-  const [lang, setLang] = useState('Br');
+  const [lang, setLang] = useState("Br");
 
   return (
     <div className="_white">

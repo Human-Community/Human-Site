@@ -1,9 +1,9 @@
 function Projects(props) {
-  var {lang, baseProps} = props
+  var { lang, baseProps } = props;
 
   return (
     <h1>
-      A parte de Projects fica aqui
+      <div>A parte de Projects fica aqui</div>
     </h1>
   );
 }

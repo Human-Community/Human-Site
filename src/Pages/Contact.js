@@ -1,9 +1,9 @@
 function Contact(props) {
-  var {lang, baseProps} = props
+  var { lang, baseProps } = props;
 
   return (
     <h1>
-      Os grupos para contato ficam aqui
+      <div>Os grupos para contato ficam aqui</div>
     </h1>
   );
 }

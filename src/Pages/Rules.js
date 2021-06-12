@@ -1,9 +1,9 @@
-function Rules (props) {
-  var {lang, baseProps} = props
+function Rules(props) {
+  var { lang, baseProps } = props;
 
   return (
     <h1>
-      As Regras ficam aqui
+      <div>As Regras ficam aqui</div>
     </h1>
   );
 }
