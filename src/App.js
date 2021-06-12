@@ -11,7 +11,7 @@ import Contact from './Pages/Contact';
 import Footer from './Pages/Footer';
 
 function App() {
-  const [lang, setLang] = useState('br');
+  const [lang, setLang] = useState('Br');
 
   return (
     <div className="_white">

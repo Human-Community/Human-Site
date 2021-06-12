@@ -6,3 +6,7 @@ body {
   font-family: 'Inconsolata', monospace;
   background-color: #262626;
 }
+
+body,html {
+  scroll-behavior: smooth;
+}
