@@ -21,7 +21,7 @@ function Content(props) {
         })}
 
         <div className="o-layout__item _2/12 _dib _tac">
-          <div>Entre!</div>
+          <div>{baseProps[lang].join}</div>
           <Arrow orientation="left" />
         </div>
       </div>

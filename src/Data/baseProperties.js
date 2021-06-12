@@ -1,8 +1,9 @@
 const baseProperties = {
   'br': {
     'construction': 'Em construção...',
-
+    
     'changeLanguage': 'English',
+    'changeCode': 'en',
 
     'name': '!Humman Community',
     'title': {
@@ -21,6 +22,8 @@ const baseProperties = {
         'url': 'https://t.me/Is_Not_Human',
       }
     ],
+    'join': 'Entre!',
+
     'projects': [
       {
         'name': 'Lara',
@@ -28,6 +31,7 @@ const baseProperties = {
         'image': 'https://github.com/Weslley-Borges/Lara/raw/master/temp/img/Lara.png'
       }
     ],
+    
     'rules': [
       {
         'rule': 'As regras valem para todos os membros, ninguém está acima delas',
@@ -55,8 +59,9 @@ const baseProperties = {
 
   'en': {
     'construction': 'Building...',
-
+    
     'changeLanguage': 'Português',
+    'changeCode': 'br',
 
     'name': '!Humman Community',
     'title': {
@@ -75,6 +80,8 @@ const baseProperties = {
         'url': 'https://t.me/Is_Not_Human',
       }
     ],
+    'join': 'Join!',
+
     'projects': [
       {
         'name': 'Lara',
@@ -82,6 +89,7 @@ const baseProperties = {
         'image': 'https://github.com/Weslley-Borges/Lara/raw/master/temp/img/Lara.png'
       }
     ],
+    
     'rules': [
       {
         'rule': 'All the rules are valid to all members, no one are above them',
