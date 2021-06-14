@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Human-Site/static/css/main.9c6d64b2.chunk.css",
-    "main.js": "/Human-Site/static/js/main.c4e0383f.chunk.js",
-    "main.js.map": "/Human-Site/static/js/main.c4e0383f.chunk.js.map",
+    "main.css": "/Human-Site/static/css/main.5cdc261b.chunk.css",
+    "main.js": "/Human-Site/static/js/main.272a0544.chunk.js",
+    "main.js.map": "/Human-Site/static/js/main.272a0544.chunk.js.map",
     "runtime-main.js": "/Human-Site/static/js/runtime-main.2e0517df.js",
     "runtime-main.js.map": "/Human-Site/static/js/runtime-main.2e0517df.js.map",
     "static/js/2.235f03f9.chunk.js": "/Human-Site/static/js/2.235f03f9.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e306650c.chunk.js": "/Human-Site/static/js/3.e306650c.chunk.js",
     "static/js/3.e306650c.chunk.js.map": "/Human-Site/static/js/3.e306650c.chunk.js.map",
     "index.html": "/Human-Site/index.html",
-    "static/css/main.9c6d64b2.chunk.css.map": "/Human-Site/static/css/main.9c6d64b2.chunk.css.map",
+    "static/css/main.5cdc261b.chunk.css.map": "/Human-Site/static/css/main.5cdc261b.chunk.css.map",
     "static/js/2.235f03f9.chunk.js.LICENSE.txt": "/Human-Site/static/js/2.235f03f9.chunk.js.LICENSE.txt",
     "static/media/logoHumamRedondo.c4cefa46.png": "/Human-Site/static/media/logoHumamRedondo.c4cefa46.png",
     "static/media/telegram.473c5f0b.png": "/Human-Site/static/media/telegram.473c5f0b.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.2e0517df.js",
     "static/js/2.235f03f9.chunk.js",
-    "static/css/main.9c6d64b2.chunk.css",
-    "static/js/main.c4e0383f.chunk.js"
+    "static/css/main.5cdc261b.chunk.css",
+    "static/js/main.272a0544.chunk.js"
   ]
 }
