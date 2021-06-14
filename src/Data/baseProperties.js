@@ -12,7 +12,7 @@ const baseProperties = {
       reinvent: "Reinvente-se.",
     },
     description:
-      "Venha fazer parte de uma comunidade cheia de programadores motivados a atingir um único objetivo: aprimorar suas habilidades em um ambiente acolhedor e diversificado",
+      "Venha fazer parte de uma comunidade cheia de programadores motivados a atingir um único objetivo: aprimorar suas habilidades em um ambiente acolhedor e diversificado.",
     social: [
       { name: "telegram", url: "https://t.me/Is_Not_Human" },
       { name: "whatsapp", url: "https://t.me/Is_Not_Human" },
@@ -74,7 +74,7 @@ const baseProperties = {
       reinvent: "Reinvent yourself.",
     },
     description:
-      "Join a community full of devs looking for a common goal: hone your skills in a welcoming and diverse environment",
+      "Join a community full of devs looking for a common goal: hone your skills in a welcoming and diverse environment.",
     social: [
       { name: "telegram", url: "https://t.me/Is_Not_Human" },
       { name: "whatsapp", url: "https://t.me/Is_Not_Human" },

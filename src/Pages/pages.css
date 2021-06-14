@@ -5,14 +5,32 @@
   overflow: hidden;
 }
 
-.c-home__content {
-  font-size: 4em;
-}
-
 .c-home__strip {
-  rotate: 204deg;
-  bottom: -80%;
-  left: -30%;
+  transform: rotate(137deg);
+  bottom: -65%;
+  left: -33%;
   height: 125vh;
   width: 125vw;
+}
+
+/* TabletV+ */
+@media (min-width: 600px) {
+  .c-home__strip {
+    transform: rotate(130deg) !important;
+    bottom: -52% !important;
+    left: -58% !important;
+  }
+}
+
+/* TabletH+ */
+@media (min-width: 900px) {
+  .c-home__strip {
+    transform: rotate(24deg) !important;
+    bottom: -80% !important;
+    left: -30% !important;
+  }
+
+  .c-home__content {
+    font-size: 4em !important;
+  }
 }

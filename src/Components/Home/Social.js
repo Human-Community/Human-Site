@@ -8,9 +8,9 @@ function Social(props) {
 
   return (
     <div className="o-layout__item _2/12 _dib">
-      <div className="_bdrs20 _bgblack">
+      <div className="c-social__bgblack">
         <a href={social.url} target="_blank" rel="noreferrer">
-          <div className="_psm">
+          <div className="_pxxs _pxs@tabletH">
             <img className="_1/1" src={images[social.name]} alt="social Logo" />
           </div>
         </a>

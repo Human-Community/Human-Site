@@ -9,7 +9,7 @@ function Construction(props) {
       <div className="_tac">
         <img src={logoRedonda} className="logoAnimation" alt="Human logo" />
         <h1 className="_ttu">
-          <span className="_white">{baseProps[lang].title}</span>
+          <span className="_white">{baseProps[lang].construction}</span>
         </h1>
       </div>
     </div>

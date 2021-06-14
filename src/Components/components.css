@@ -8,11 +8,22 @@
 }
 
 .c-common__arrowdown {
-  rotate: 270deg;
+  transform: rotate(270deg);
 }
 .c-common__arrowright {
-  rotate: 180deg;
+  transform: rotate(180deg);
 }
 .c-common__arrowup {
-  rotate: 90deg;
+  transform: rotate(90deg);
+}
+
+.c-social__bgblack {
+  background-color: black;
+  border-radius: 5px;
+}
+
+@media (min-width: 900px) {
+  .c-social__bgblack {
+    border-radius: 20px !important;
+  } 
 }
