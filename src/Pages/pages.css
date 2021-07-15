@@ -13,6 +13,19 @@
   width: 125vw;
 }
 
+.c-projects__imageFather {
+  margin-left: -1px; /* Ajuste pixelPerfect */
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  mask-image: url(../Assets/Projects/projectMask.svg);
+  mask-size: 100%;
+  mask-repeat: no-repeat;
+  mask-position: center;
+}
+
 /* TabletV+ */
 @media (min-width: 600px) {
   .c-home__strip {

@@ -1,3 +1,5 @@
+import Lara from '../Assets/Projects/Lara.jpg';
+
 const baseProperties = {
   Br: {
     construction: "Em construção...",
@@ -32,7 +34,7 @@ const baseProperties = {
         description:
           "O bot oficial da comunidade, criado para administrar o grupo e oferecer serviços.",
         image:
-          "https://github.com/Weslley-Borges/Lara/raw/master/temp/img/Lara.png",
+          Lara,
       },
     ],
 
@@ -94,7 +96,7 @@ const baseProperties = {
         description:
           "The oficial bot of th community, created to be an adm and offer services.",
         image:
-          "https://github.com/Weslley-Borges/Lara/raw/master/temp/img/Lara.png",
+          Lara,
       },
     ],
 
