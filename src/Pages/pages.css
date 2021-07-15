@@ -33,4 +33,8 @@
   .c-home__content {
     font-size: 4em !important;
   }
+
+  .c-home__allContent {
+    height: 100vh;
+  }
 }
