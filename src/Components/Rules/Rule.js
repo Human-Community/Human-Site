@@ -2,7 +2,7 @@ function Rule(props) {
   var { rules } = props;
 
   return (
-    <ul className="_phxs _pv">
+    <ul className="_phxs@tabletH _pv@tabletH _prxxs _plsm">
       {rules.map((rule, key) => {
         return (
           <li key={key} className="_mvsm">
