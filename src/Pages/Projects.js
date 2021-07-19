@@ -5,7 +5,7 @@ function Projects(props) {
 
   return (
     <div id="projects" className="o-wrapper _mvlg o-wrapper--flush">
-      <h1 className="_ttu _tac">Nossos principais projetos</h1>
+      <h1 className="_ttu _tac">{baseProps[lang].projectsTitle}</h1>
       <div className="">
         {baseProps[lang].projects.map((project, key) => {
           return <Project project={project} key={key} />

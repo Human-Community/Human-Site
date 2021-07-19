@@ -28,6 +28,7 @@ const baseProperties = {
       { name: "Siga-nos", url: "#contact" },
     ],
 
+    projectsTitle: " Nossos principais projetos!",
     projects: [
       {
         name: "Lara",
@@ -38,6 +39,7 @@ const baseProperties = {
       },
     ],
 
+    rulesTitle: "Regras:",
     rules: [
       {
         rule: "As regras valem para todos os membros, ninguém está acima delas",
@@ -90,6 +92,7 @@ const baseProperties = {
       { name: "Follow us", url: "#contact" },
     ],
 
+    projectsTitle: "Our main projects!",
     projects: [
       {
         name: "Lara",
@@ -100,6 +103,7 @@ const baseProperties = {
       },
     ],
 
+    rulesTitle: "Rules:",
     rules: [
       {
         rule: "All the rules are valid to all members, no one are above them",

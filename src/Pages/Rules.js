@@ -1,10 +1,16 @@
+import Rule from "../Components/Rules/Rule";
+
 function Rules(props) {
   var { lang, baseProps } = props;
 
   return (
-    <h1>
-      <div>As Regras ficam aqui</div>
-    </h1>
+    <div className="o-wrapper">
+      <div className="_mhxxl _bgsecondary _pvxl _phsm">
+        <h1 className="_ttu">{baseProps[lang].rulesTitle}</h1>
+
+        <Rule rules={baseProps[lang].rules}/>
+      </div>
+    </div>
   );
 }
 
