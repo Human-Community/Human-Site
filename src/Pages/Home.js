@@ -2,7 +2,7 @@ import Logo from "../Components/Home/Logo";
 import Content from "../Components/Home/Content";
 
 import "./pages.css";
-import Arrow from "../Components/Commom/Arrow";
+import Arrow from "../Components/Common/Arrow";
 
 function Home(props) {
   var { lang, setLang, baseProps } = props;
