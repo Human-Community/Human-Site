@@ -16,8 +16,8 @@ const baseProperties = {
     description:
       "Venha fazer parte de uma comunidade cheia de programadores motivados a atingir um único objetivo: aprimorar suas habilidades em um ambiente acolhedor e diversificado.",
     social: [
-      { name: "telegram", url: "https://t.me/Is_Not_Human" },
-      { name: "whatsapp", url: "https://t.me/Is_Not_Human" },
+      { name: "telegram", url: "https://t.me/HumanCommunity" },
+      { name: "whatsapp", url: "https://chat.whatsapp.com/LfT0J6mIRUa8WlfOz4rQTb" },
     ],
     join: "Entre!",
 
@@ -80,8 +80,8 @@ const baseProperties = {
     description:
       "Join a community full of devs looking for a common goal: hone your skills in a welcoming and diverse environment.",
     social: [
-      { name: "telegram", url: "https://t.me/Is_Not_Human" },
-      { name: "whatsapp", url: "https://t.me/Is_Not_Human" },
+      { name: "telegram", url: "https://t.me/HumanCommunity" },
+      { name: "whatsapp", url: "https://chat.whatsapp.com/LfT0J6mIRUa8WlfOz4rQTb" },
     ],
     join: "Join!",
 
