@@ -14,7 +14,7 @@ const baseProperties = {
     changeLanguage: "English",
     changeCode: "En",
 
-    name: "!Humman Community",
+    name: "!Human Community",
     title: {
       develop: "Desenvolva,",
       forward: "Avance,",
