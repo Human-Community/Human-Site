@@ -73,7 +73,7 @@ const baseProperties = {
     changeLanguage: "Português",
     changeCode: "Br",
 
-    name: "!Humman Community",
+    name: "!Human Community",
     title: {
       develop: "Develop,",
       forward: "Move forward,",
